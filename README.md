@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm SEONGHUN(Louis) KIM</h1>
+<h1 align="center">Hi 👋, I'm LOUIS(SEONGHUN) KIM</h1>
 <h3 align="center">Building Better Software through QA Expertise</h3>
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
