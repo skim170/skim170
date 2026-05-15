@@ -1,65 +1,47 @@
 <h1 align="center">Hi 👋, I'm Seonghun Kim</h1>
-<h3 align="center">QA-Focused Software Engineer | Test Automation | Web & Enterprise System Quality</h3>
+<h3 align="center">QA-Focused Software Engineer</h3>
 
 ---
 
 ### About Me
 
-I am a QA-focused Software Engineer with experience in manual testing, test automation, UAT support, defect tracking, and enterprise system migration.
+I am a QA-focused Software Engineer with experience in manual testing, test automation, UAT support, and enterprise system migration.
 
-I have worked on web and mobile QA projects, Selenium-based automation, API and database validation, and legacy system modernization projects. My background includes both QA engineering and software engineering experience, with strong communication skills in Korean and English.
-
----
-
-### What I Focus On
-
-- Web and mobile application testing
-- Test case design and execution
-- Manual QA and regression testing
-- Selenium-based test automation
-- API testing and database validation
-- Defect analysis and issue tracking
-- UAT support and user-facing quality validation
-- Enterprise system migration support
+I enjoy improving software quality by finding issues early, designing clear test cases, and automating repetitive testing tasks.
 
 ---
 
-### Tech Stack & Tools
+### Main Focus
 
-**Testing & QA**  
-Selenium, Playwright, Postman, Appium, JIRA, Test Case Design, UAT, Regression Testing
+- Manual & Automation Testing
+- Test Case Design
+- Selenium / Playwright
+- API & Database Validation
+- Defect Tracking
+- UAT Support
+- Web Application QA
 
-**Languages**  
-Python, JavaScript, TypeScript, Java, C++, SQL
+---
 
-**Web & Frameworks**  
-HTML, CSS, React, Vue 2, Node.js
+### Tech Stack
 
-**Database & Dev Tools**  
-Oracle DB, SQL Server, Git, Azure, Windows, Ubuntu, macOS
+**Testing:** Selenium, Playwright, Postman, Appium, JIRA  
+**Languages:** Python, JavaScript, TypeScript, Java, SQL  
+**Web:** HTML, CSS, React, Vue 2, Node.js  
+**Database & Tools:** Oracle DB, SQL Server, Git, Azure
 
 ---
 
 ### Featured Projects
 
-#### Salesforce Word Integration
-Microsoft Word Add-in project integrating Salesforce data using Office.js, Node.js, Express, OAuth 2.0, and Azure.
+- **Salesforce Word Integration**  
+  Microsoft Word Add-in integrated with Salesforce using Office.js, Node.js, OAuth 2.0, and Azure.
 
-#### KeyEscape Booking Automation
-Python Selenium automation project for automating browser interactions and reservation workflow testing.
+- **KeyEscape Booking Automation**  
+  Selenium-based browser automation project for reservation workflow testing.
 
-#### AUOK PWA
-Progressive web application project built with Next.js and TypeScript.
-
-#### Pension Lotto
-JavaScript-based web project for displaying and handling Korean pension lottery data.
-
----
-
-### Career Direction
-
-I am interested in building reliable software through QA, automation, and user-centered quality validation.  
-My goal is to grow as a QA Engineer or Software Engineer who can connect testing, development, and real user needs.
+- **AUOK PWA**  
+  Progressive web application built with Next.js and TypeScript.
 
 ---
 
