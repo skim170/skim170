@@ -1,18 +1,69 @@
+<h1 align="center">Hi 👋, I'm Seonghun Kim</h1>
+<h3 align="center">QA-Focused Software Engineer | Test Automation | Web & Enterprise System Quality</h3>
 
+---
 
-<h1 align="center">Hi 👋, I'm LOUIS(SEONGHUN) KIM</h1>
-<h3 align="center">Building Better Software through QA Expertise</h3>
+### About Me
 
-- 🌱 I’m currently learning **Data structure and Algorithm**
+I am a QA-focused Software Engineer with experience in manual testing, test automation, UAT support, defect tracking, and enterprise system migration.
 
-- 💬 Ask me about **selenium, python, test automation**
+I have worked on web and mobile QA projects, Selenium-based automation, API and database validation, and legacy system modernization projects. My background includes both QA engineering and software engineering experience, with strong communication skills in Korean and English.
 
-- 📫 How to reach me **skim170@liberty.edu**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### What I Focus On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- Web and mobile application testing
+- Test case design and execution
+- Manual QA and regression testing
+- Selenium-based test automation
+- API testing and database validation
+- Defect analysis and issue tracking
+- UAT support and user-facing quality validation
+- Enterprise system migration support
 
+---
+
+### Tech Stack & Tools
+
+**Testing & QA**  
+Selenium, Playwright, Postman, Appium, JIRA, Test Case Design, UAT, Regression Testing
+
+**Languages**  
+Python, JavaScript, TypeScript, Java, C++, SQL
+
+**Web & Frameworks**  
+HTML, CSS, React, Vue 2, Node.js
+
+**Database & Dev Tools**  
+Oracle DB, SQL Server, Git, Azure, Windows, Ubuntu, macOS
+
+---
+
+### Featured Projects
+
+#### Salesforce Word Integration
+Microsoft Word Add-in project integrating Salesforce data using Office.js, Node.js, Express, OAuth 2.0, and Azure.
+
+#### KeyEscape Booking Automation
+Python Selenium automation project for automating browser interactions and reservation workflow testing.
+
+#### AUOK PWA
+Progressive web application project built with Next.js and TypeScript.
+
+#### Pension Lotto
+JavaScript-based web project for displaying and handling Korean pension lottery data.
+
+---
+
+### Career Direction
+
+I am interested in building reliable software through QA, automation, and user-centered quality validation.  
+My goal is to grow as a QA Engineer or Software Engineer who can connect testing, development, and real user needs.
+
+---
+
+### Contact
+
+📫 Email: skim170@liberty.edu  
+🔗 GitHub: https://github.com/skim170
